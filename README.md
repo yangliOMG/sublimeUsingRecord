@@ -4,6 +4,7 @@ sublime的使用记录
 一、sublime导入插件
 
 方法一：
+
 1.前往官网 https://packagecontrol.io/  复制一段话。点击右侧的  Installation 菜单 ->使用的最新版本sublimeText3 复制以下的内容
 
 ![image](https://github.com/yangliOMG/sublimeUsingRecord/blob/master/img/1.png)
@@ -15,6 +16,14 @@ sublime的使用记录
 4.选择install Package 安装插件  ，加载完成会弹出所有的插件列表   
 
 5.参考链接：https://jingyan.baidu.com/article/5552ef47ff11b7518ffbc92b.html
+
+方法二：（导入显示颜色主题）
+
+1.在github中下载相应的插件，解压找到.tmTheme结尾的文件
+
+2.Preferences 菜单Browse Packages打开包所在位置（/Packages），将文件放到/Packages/User中
+
+3.在Preferences/color scheme中，可以找到刚导入的文件。
 
 
 

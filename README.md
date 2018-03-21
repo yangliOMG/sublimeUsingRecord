@@ -5,7 +5,7 @@ sublime的使用记录
 
 方法一：
 1.前往官网 https://packagecontrol.io/  复制一段话。点击右侧的  Installation 菜单 ->使用的最新版本sublimeText3 复制以下的内容
-![image](https://github.com/yangliOMG/sublimeUsingRecord/img/blob/master/sublime.png)
+![image](https://github.com/yangliOMG/sublimeUsingRecord/blob/master/img/1.png)
 
 2.在sublime中，
 在 View 菜单中  Show Console 选项  打开底部的控制台

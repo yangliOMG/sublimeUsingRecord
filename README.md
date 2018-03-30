@@ -1,9 +1,9 @@
 # sublimeUsingRecord
 sublime的使用记录
 
-一、sublime导入插件
+#### 一、sublime导入插件
 
-方法一：
+##### 方法一：
 
 1.前往官网 https://packagecontrol.io/  复制一段话。点击右侧的  Installation 菜单 ->使用的最新版本sublimeText3 复制以下的内容
 
@@ -17,7 +17,7 @@ sublime的使用记录
 
 5.参考链接：https://jingyan.baidu.com/article/5552ef47ff11b7518ffbc92b.html
 
-方法二：（导入显示颜色主题）
+##### 方法二：（导入显示颜色主题）
 
 1.在github中下载相应的插件，解压找到.tmTheme结尾的文件
 
@@ -27,6 +27,6 @@ sublime的使用记录
 
 
 
-二、插件BracketHighlighter的设置（高亮工具）
+#### 二、插件BracketHighlighter的设置（高亮工具）
 
 参考链接：https://www.cnblogs.com/feiying100/p/6899214.html

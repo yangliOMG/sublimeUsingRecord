@@ -25,6 +25,7 @@ sublime的使用记录
 
 3.在Preferences/color scheme中，可以找到刚导入的文件。
 
+less和scss文件高亮显示 https://blog.csdn.net/zcwforali/article/details/72412044
 
 
 #### 二、插件BracketHighlighter的设置（高亮工具）
